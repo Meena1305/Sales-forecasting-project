@@ -1,0 +1,41 @@
+Array
+(
+    [uploadedFile] => Array
+        (
+            [name] => sales_data.csv
+            [full_path] => sales_data.csv
+            [type] => text/csv
+            [tmp_name] => C:\wamp64\tmp\php6DCC.tmp
+            [error] => 0
+            [size] => 2114
+        )
+
+)
+Upload Attempted at: 2026-04-07 09:10:06
+Array
+(
+    [uploadedFile] => Array
+        (
+            [name] => sales_data.csv
+            [full_path] => sales_data.csv
+            [type] => text/csv
+            [tmp_name] => C:\wamp64\tmp\php1762.tmp
+            [error] => 0
+            [size] => 2114
+        )
+
+)
+Upload Attempted at: 2026-04-07 09:26:38
+Array
+(
+    [uploadedFile] => Array
+        (
+            [name] => sales_data.csv
+            [full_path] => sales_data.csv
+            [type] => text/csv
+            [tmp_name] => C:\wamp64\tmp\php3A44.tmp
+            [error] => 0
+            [size] => 2114
+        )
+
+)
